@@ -6,4 +6,5 @@ Rollcall
 Name, Year, Major
 -------------------------------------------------
 * Howard Francis, Faculty, Math/Computer Science
+* Charles Maxwell, Senior, Computer Science
 
